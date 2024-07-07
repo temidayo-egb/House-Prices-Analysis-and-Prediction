@@ -1,2 +1,4 @@
 # temidayo-egb-House-Prices-Analysis-and-Prediction
+https://www.bing.com/images/search?view=detailV2&ccid=fiFtDvtK&id=98E72B1F37BC1FFC84EB81E3743653269851E351&thid=OIP.fiFtDvtKKpot5gVsWn9lqgHaEK&mediaurl=https%3a%2f%2fcdn.decoist.com%2fwp-content%2fuploads%2f2021%2f06%2fTwo-story-black-house-witg-glass-walls-in-the-middle-of-the-forest-19247.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7e216d0efb4a2a9a2de6056c5a7f65aa%3frik%3dUeNRmCZTNnTjgQ%26pid%3dImgRaw%26r%3d0&exph=959&expw=1704&q=black+house&simid=607992345735478666&FORM=IRPRST&ck=185D30B4B610FB96FBC69533A515C017&selectedIndex=0&itb=0
+
 In this project, I am a Data Analyst working at a Real Estate Investment Trust. The Trust would like to start investing in Residential real estate. I am tasked with determining the market price of a house given a set of features.
